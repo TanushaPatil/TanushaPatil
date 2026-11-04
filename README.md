@@ -1,86 +1,124 @@
-<!-- HEADER --><div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:604477,50:9875B5,100:EADFF5&height=160&section=header&text=Tanusha%20Patil&fontSize=45&fontColor=FFFFFF&fontAlignY=55" width="100%" />B.Tech Computer Science Engineering Student
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:30213F,35:604477,70:9875B5,100:E9D9F2&height=210&section=header&text=TANUSHA%20PATIL&fontSize=52&fontColor=FFFFFF&fontAlignY=43&desc=CYBERSECURITY%20%20%2F%2F%20%20ARTIFICIAL%20INTELLIGENCE%20%20%2F%2F%20%20DEVELOPMENT&descSize=13&descAlignY=68" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Georgia&size=19&duration=3000&pause=1000&color=80619A&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Cybersecurity+%26+AI+Explorer;Learning+to+build+and+secure+technology" /><br/><a href="https://github.com/TanushaPatil">
+<img src="https://img.shields.io/badge/GITHUB-604477?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=TanushaPatil&style=for-the-badge&color=9875B5&label=PROFILE+VIEWS"/></div><br/><table>
+<tr>
+<td width="58%" valign="top">01 / INTRODUCTION
 
-Cybersecurity & AI Explorer | Developer | Technology Enthusiast
+Hi, I'm Tanusha Patil.
 
-Exploring the digital world through code, security and intelligent technology.
+A Computer Science Engineering student with a growing interest in the intersection of cybersecurity, artificial intelligence and software development.
 
-""GitHub" (https://img.shields.io/badge/GitHub-604477?style=flat-square&logo=github&logoColor=white)" (https://github.com/TanushaPatil)
+I enjoy exploring how technology works, understanding digital security and turning ideas into practical projects.
 
-</div>---
+</td>
+<td width="42%" valign="top">CURRENTLY
 
-About Me
+- Studying Computer Science
+- Exploring Cybersecurity
+- Learning AI & Machine Learning
+- Practising CTF challenges
+- Building real-world projects
 
-- 🎓 B.Tech Computer Science Engineering Student
-- 🔐 Interested in Cybersecurity and Ethical Hacking
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 💻 Learning Software Development and Problem Solving
-- 🌐 Interested in IoT and Emerging Technologies
-- 🚀 Building practical projects and continuously improving my skills
+</td>
+</tr>
+</table>---
 
-Education
+02 / EDUCATION
 
-Bachelor of Technology (B.Tech)
+Bachelor of Technology — Computer Science Engineering
 
-Computer Science Engineering
-Specialization: IoT, Blockchain and Cybersecurity
-
-Technical Skills
-
-Programming Languages
-
-<p>
-<img src="https://img.shields.io/badge/C-604477?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-604477?style=for-the-badge&logo=python&logoColor=white"/>
-</p>Web Technologies
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-9875B5?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-9875B5?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-9875B5?style=for-the-badge&logo=javascript&logoColor=white"/>
-</p>Tools & Platforms
-
-<p>
-<img src="https://img.shields.io/badge/Git-80619A?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-80619A?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-80619A?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>Areas of Interest
-
-- Cybersecurity
-- Ethical Hacking
-- Artificial Intelligence
-- Machine Learning
-- Network Security
-- Internet of Things (IoT)
-- Software Development
-
-Featured Projects
-
-NUSHX — AI PDF Assistant
-
-An AI-powered application for interacting with and extracting information from PDF documents.
-
-AquaSentinel — Water Quality Analysis
-
-A machine learning project focused on water quality analysis and prediction.
-
-CyberWatch — Cybercrime Intelligence
-
-A platform focused on global cybercrime news and intelligence.
-
-SIBLA — Disaster Change Intelligence
-
-A project exploring post-disaster change detection using multi-temporal satellite data.
+Specialization: IoT, Blockchain & Cybersecurity
 
 ---
 
-GitHub Statistics
+03 / TECHNICAL ARSENAL
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TanushaPatil&show_icons=true&theme=default&bg_color=FFFFFF&title_color=604477&icon_color=9875B5&text_color=604477&border_color=EADFF5" height="165"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanushaPatil&layout=compact&theme=default&bg_color=FFFFFF&title_color=604477&text_color=604477&border_color=EADFF5" height="165"/></div>---
+<div align="center">PROGRAMMING
 
-Connect With Me
+<img src="https://skillicons.dev/icons?i=c,python&theme=light" />WEB DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=light" />DEVELOPMENT TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" /></div><br/><table>
+<tr>
+<td align="center" width="33%">CYBERSECURITY
+
+Ethical Hacking
+
+Network Security
+
+CTF Practice
+
+</td>
+<td align="center" width="33%">ARTIFICIAL INTELLIGENCE
+
+Machine Learning
+
+AI Applications
+
+Data Exploration
+
+</td>
+<td align="center" width="33%">DEVELOPMENT
+
+Programming
+
+Web Technologies
+
+Problem Solving
+
+</td>
+</tr>
+</table>---
+
+04 / SELECTED WORK
+
+<table>
+<tr>
+<td width="50%" valign="top">01. NUSHX
+
+<img src="https://img.shields.io/badge/AI-PDF%20ASSISTANT-604477?style=flat-square"/>An AI-powered PDF assistant that allows users to interact with documents and retrieve relevant information.
+
+Focus: Python · Flask · RAG · LLM
+
+</td>
+<td width="50%" valign="top">02. AquaSentinel
+
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-WATER%20QUALITY-9875B5?style=flat-square"/>A machine learning project for analysing water quality data and exploring predictive insights.
+
+Focus: Python · Machine Learning · Data Analysis
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">03. CyberWatch
+
+<img src="https://img.shields.io/badge/CYBERSECURITY-INTELLIGENCE-80619A?style=flat-square"/>A cybercrime intelligence platform focused on global cybercrime news and threat information.
+
+Focus: Python · React · Flask · SQLite
+
+</td>
+<td width="50%" valign="top">04. SIBLA
+
+<img src="https://img.shields.io/badge/REMOTE%20SENSING-DISASTER%20INTELLIGENCE-B58ACF?style=flat-square"/>A post-disaster change intelligence project using multi-temporal satellite data.
+
+Focus: Satellite Data · Image Analysis · Change Detection
+
+</td>
+</tr>
+</table>---
+
+05 / GITHUB ANALYTICS
+
+<div align="center"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=TanushaPatil&show_icons=true&hide_border=true&bg_color=F8F4FC&title_color=604477&icon_color=B58ACF&text_color=493654"/><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanushaPatil&layout=compact&hide_border=true&bg_color=F8F4FC&title_color=604477&text_color=493654"/><br/><img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=TanushaPatil&hide_border=true&background=F8F4FC&ring=9875B5&fire=B58ACF&currStreakLabel=604477&sideLabels=604477&currStreakNum=604477&sideNums=604477&dates=80619A"/></div>---
+
+06 / CONNECT
 
 <div align="center"><a href="https://github.com/TanushaPatil">
 <img src="https://img.shields.io/badge/GitHub-604477?style=for-the-badge&logo=github&logoColor=white"/>
-</a></div><div align="center">Always Learning. Always Exploring. Always Building.
+</a><br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:604477,50:9875B5,100:EADFF5&height=100&section=footer" width="100%"/></div>
+Curiosity drives learning. Creativity drives building.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30213F,40:604477,75:9875B5,100:E9D9F2&height=120&section=footer" width="100%"/></div>
