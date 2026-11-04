@@ -34,11 +34,14 @@ Specialization: IoT, Blockchain & Cybersecurity
 
 03 / TECHNICAL ARSENAL
 
-<div align="center">PROGRAMMING
+<div align="center">
+  PROGRAMMING
 
-<img src="https://skillicons.dev/icons?i=c,python&theme=light" />WEB DEVELOPMENT
+<img src="https://skillicons.dev/icons?i=c,python&theme=light" />
+WEB DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=light" />DEVELOPMENT TOOLS
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=light" />
+DEVELOPMENT TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" /></div><br/><table>
 <tr>
