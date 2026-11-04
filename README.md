@@ -36,13 +36,14 @@ Specialization: IoT, Blockchain & Cybersecurity
 
 <div align="center">
   PROGRAMMING
-
 <img src="https://skillicons.dev/icons?i=c,python&theme=light" />
+  <br></br>
+  
 WEB DEVELOPMENT
-
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=light" />
-DEVELOPMENT TOOLS
+<br></br>
 
+DEVELOPMENT TOOLS
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" /></div><br/><table>
 <tr>
 <td align="center" width="33%">CYBERSECURITY
